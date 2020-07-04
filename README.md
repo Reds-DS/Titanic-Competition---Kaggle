@@ -1,7 +1,7 @@
 Titanic Survival - Kaggle Project
 --------------------------------
 
-The objectif of this Project is to predict whether a passenger survived or not in the Titanic shipwreck. Given some predictive variable, we have to implement a model that allow us to classify correctly the passengers. For more detail about
+The objectif of this Project is to predict whether a passenger survived or not in the Titanic shipwreck. Given some predictive variable, we have to implement a model that allow us to classify correctly the passengers. For more detail about the competition and the dataset take a look [here](https://www.kaggle.com/c/titanic)
 
 
 Files
